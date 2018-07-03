@@ -1,5 +1,7 @@
 """
 输入月收入和五险一金计算个人所得税
+
+if else elif
 """
 
 salary = float(input('这个月工资:'))

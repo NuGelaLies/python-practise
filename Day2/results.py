@@ -1,5 +1,6 @@
 
 """
+if else elif
 
 分段函数求值
 

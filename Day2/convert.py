@@ -1,4 +1,6 @@
-
+'''
+if else elif
+'''
 
 value = float(input('请输入长度: '))
 
